@@ -1,0 +1,3 @@
+Firstly we have to go to manage jenkins there we have to search shared library plugin and then configure the git repo in it, and give the name as same as we mention in our pipeline.
+Then we have to write the groovy scripts as per requirement.
+Then we have to write the jenkinsfile and call all the groovy files in it. 
